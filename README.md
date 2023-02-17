@@ -22,7 +22,7 @@
 </p>
 
 ## 💻 About Me
-As a software developer with a Chemical Engineering background, I'm passionate about tackling complex challenges and creating innovative solutions. My work involves generating data on the Brazilian innovation market, building backend-oriented applications, and correcting database errors. I thrive on making a meaningful impact through technology, simplifying complex processes and enhancing the user experience. .<br><br>
+As a software developer with a Chemical Engineering background, I'm passionate about tackling complex challenges and creating innovative solutions. My work involves generating data on the Brazilian innovation market, building web applications, and correcting database errors. I thrive on making a meaningful impact through technology, simplifying complex processes and enhancing the user experience.
 
 ## 🚀Languages
 - Python
