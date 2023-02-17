@@ -58,6 +58,14 @@ As a software developer with a Chemical Engineering background, I'm passionate a
         alt="MySQL"
         data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=9cf"
         style="max-width: 100%;">
+    <img src="img\-Jira-black.svg"
+        alt="Jira"
+        data-canonical-src="https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jirasoftware&logoColor=9cf"
+        style="max-width: 100%;">
+    <img src="img\-Bitbucket-black.svg"
+        alt="Bitbucket"
+        data-canonical-src="https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=bitbucket&logoColor=9cf"
+        style="max-width: 100%;">
 
 </p>
 
@@ -69,12 +77,13 @@ As a software developer with a Chemical Engineering background, I'm passionate a
         style="max-width: 100%;">
     <img src="img\-PHP-black.svg"
         alt="PHP"
-        data-canonical-src=""
+        data-canonical-src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=9cf"
         style="max-width: 100%;">
     <img src="img\-Lua-black.svg"
         alt="Lua"
-        data-canonical-src=""
+        data-canonical-src="https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua&logoColor=blue"
         style="max-width: 100%;">
+    
 </p>
 
 
