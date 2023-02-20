@@ -1,12 +1,6 @@
 <h1 style="text-align: center">Hi, I'm Sara!</h1> 
 
 <p dir="auto" style="text-align: center">
-<a href="mailto:saradfrz@gmail.com">
-    <img src="img\saradfrz-gmail.svg"
-        alt="Gmail: saradfrz"
-        data-canonical-src="https://img.shields.io/badge/-saradfrz-red?style=flat-square&logo=Gmail&logoColor=white"
-        style="max-width: 100%;">
-  </a>
   <a href="https://www.linkedin.com/in/saradfrz/">
     <img src="img\saradfrz-linkedin.svg"
         alt="Linkedin: saradfrz"
@@ -14,9 +8,15 @@
         style="max-width: 100%;">
   </a>
   <a href="https://discordapp.com/users/702235784794734631">
-    <img src="img\SaraFernandez-discord.svg"
+    <img src="img\saradfrz-discord.svg"
         alt="Discord: saradfrz"
         data-canonical-src="https://img.shields.io/badge/-SaraFernandez.0721-blueviolet?style=flat-square&logo=Discord&logoColor=white"
+        style="max-width: 100%;">
+  </a>
+  <a href="mailto:saradfrz@gmail.com">
+    <img src="img\saradfrz-gmail.svg"
+        alt="Gmail: saradfrz"
+        data-canonical-src="https://img.shields.io/badge/-saradfrz-red?style=flat-square&logo=Gmail&logoColor=white"
         style="max-width: 100%;">
   </a>
 </p>
