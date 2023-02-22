@@ -1,6 +1,6 @@
 <h1 style="text-align: center">Hi, I'm Sara!</h1> 
 
-<p dir="auto" style="text-align: center">
+<p dir="auto" style="text-align: center; margin: auto;">
   <a href="https://www.linkedin.com/in/saradfrz/">
     <img src="img\saradfrz-linkedin.svg"
         alt="Linkedin: saradfrz"
@@ -19,7 +19,6 @@
         data-canonical-src="https://img.shields.io/badge/-saradfrz-red?style=flat-square&logo=Gmail&logoColor=white"
         style="max-width: 100%;">
   </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=saradfrz.saradfrz" alt="visitor badge"/>
 </p>
 
 
