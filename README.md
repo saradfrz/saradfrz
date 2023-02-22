@@ -19,7 +19,9 @@
         data-canonical-src="https://img.shields.io/badge/-saradfrz-red?style=flat-square&logo=Gmail&logoColor=white"
         style="max-width: 100%;">
   </a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=saradfrz.saradfrz&left_color=green&right_color=red" alt="visitor badge"/>
 </p>
+
 
 ## 💻 About Me
 As a software developer with a Chemical Engineering background, I'm passionate about tackling complex challenges and creating innovative solutions. My work involves generating data on the Brazilian innovation market, building web applications, and correcting database errors. I thrive on making a meaningful impact through technology, simplifying complex processes and enhancing the user experience.
