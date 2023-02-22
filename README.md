@@ -19,7 +19,7 @@
         data-canonical-src="https://img.shields.io/badge/-saradfrz-red?style=flat-square&logo=Gmail&logoColor=white"
         style="max-width: 100%;">
   </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=saradfrz.saradfrz&left_color=green&right_color=red" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=saradfrz&left_color=green&right_color=red" alt="visitor badge"/>
 </p>
 
 
