@@ -23,13 +23,23 @@
 
 
 ## 💻 About Me
-As a software developer with a Chemical Engineering background, I'm passionate about tackling complex challenges and creating innovative solutions. My work involves generating data on the Brazilian innovation market, building web applications, and correcting database errors. I thrive on making a meaningful impact through technology, simplifying complex processes and enhancing the user experience.
+I am a Data Engineer with nearly three years of professional expertise. During my college years, I engaged in coding as a side project. Upon graduating with a degree in Chemical Engineering, I intentionally pivoted to a career in technology while working in a non-IT role. This transition culminated in securing a position as a developer in a startup, where I have been actively contributing to various projects.
+
+I have acquired a comprehensive understanding of Extract, Transform, Load (ETL) activities. ETL involves extracting data from diverse sources, transforming it to align with specific business requirements, and loading it into a target system for analysis or storage.
+
+In my current role, I am responsible for both creating ETL pipelines and developing a CRUD web application. I contribute to the design of the application and ensure its seamless functionality. This involves enhancing the overall user experience by providing a user-friendly interface for creating, reading, updating, and deleting data.
+
+Proficient in multiple programming languages, I am comfortable working with Python, SQL, JavaScript, and Ruby. Additionally, my skill set extends to various technologies, including Amazon Web Services (AWS), Airflow, Git, Docker, Metabase, and Power BI. This diverse expertise enables me to effectively address various facets of development and deliver robust solutions.
 
 ## ⚡ Things I use on a daily basis
 <p>
     <img src="img\-Python-black.svg"
         alt="Python"
         data-canonical-src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=blue"
+        style="max-width: 100%;">
+    <img src="img\-Javascript-black.svg"
+        alt="Javascript"
+        data-canonical-src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&logoColor=yellow"
         style="max-width: 100%;">
     <img src="img\-Jupyter-black.svg"
         alt="Jupyter"
@@ -59,34 +69,7 @@ As a software developer with a Chemical Engineering background, I'm passionate a
         alt="MySQL"
         data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=9cf"
         style="max-width: 100%;">
-    <img src="img\-Jira-black.svg"
-        alt="Jira"
-        data-canonical-src="https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jirasoftware&logoColor=9cf"
-        style="max-width: 100%;">
-    <img src="img\-Bitbucket-black.svg"
-        alt="Bitbucket"
-        data-canonical-src="https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=bitbucket&logoColor=9cf"
-        style="max-width: 100%;">
-
 </p>
-
-## 📚 Learning/Interested in
-<p>
-    <img src="img\-Javascript-black.svg"
-        alt="Javascript"
-        data-canonical-src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&logoColor=yellow"
-        style="max-width: 100%;">
-    <img src="img\-PHP-black.svg"
-        alt="PHP"
-        data-canonical-src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=9cf"
-        style="max-width: 100%;">
-    <img src="img\-Lua-black.svg"
-        alt="Lua"
-        data-canonical-src="https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua&logoColor=blue"
-        style="max-width: 100%;">
-    
-</p>
-
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=saradfrz&stroke=%23FB4570)
