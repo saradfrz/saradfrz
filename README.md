@@ -36,10 +36,31 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
     <img src="img\-Python-black.svg"
         alt="Python"
         data-canonical-src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=blue"
-        style="max-width: 100%;">
+        style="max-width: 100%;">&nbsp;
     <img src="img\-Javascript-black.svg"
         alt="Javascript"
         data-canonical-src="https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript&logoColor=yellow"
+        style="max-width: 100%;">&nbsp;
+    <img src="img\-MySQL-black.svg"
+        alt="MySQL"
+        data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=9cf"
+        style="max-width: 100%;">&nbsp;
+    <img src="img\-AWS-black.svg"
+        alt="AWS"
+        data-canonical-src="https://img.shields.io/badge/-aws-black?style=flat-square&logo=amazonaws&logoColor=yellow"
+        style="max-width: 100%;">&nbsp;
+   <img src="img\-airflow-black.svg"
+        alt="Airflow"
+        data-canonical-src="https://img.shields.io/badge/-airflow-black?style=flat-square&logo=apacheairflow&logoColor=red"
+        style="max-width: 100%;">&nbsp;
+  <br>
+      <img src="img\-django-black.svg"
+        alt="django"
+        data-canonical-src="https://img.shields.io/badge/-django-black?style=flat-square&logo=django&logoColor=green"
+        style="max-width: 100%;">
+    <img src="img\-flask-black.svg"
+        alt="flask"
+        data-canonical-src="https://img.shields.io/badge/-flask-black?style=flat-square&logo=flask&logoColor=red"
         style="max-width: 100%;">
     <img src="img\-Jupyter-black.svg"
         alt="Jupyter"
@@ -56,18 +77,6 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
     <img src="img\-CSS3-black.svg"
         alt="CSS"
         data-canonical-src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=9cf"
-        style="max-width: 100%;">
-    <img src="img\-django-black.svg"
-        alt="django"
-        data-canonical-src="https://img.shields.io/badge/-django-black?style=flat-square&logo=django&logoColor=green"
-        style="max-width: 100%;">
-    <img src="img\-flask-black.svg"
-        alt="flask"
-        data-canonical-src="https://img.shields.io/badge/-flask-black?style=flat-square&logo=flask&logoColor=red"
-        style="max-width: 100%;">
-    <img src="img\-MySQL-black.svg"
-        alt="MySQL"
-        data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=9cf"
         style="max-width: 100%;">
 </p>
 
