@@ -80,6 +80,8 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 </p>
 <br><br>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/saradfrz)
+
 ![Codewars](https://github.r2v.ch/codewars?user=saradfrz&stroke=%23FB4570)
 
 
