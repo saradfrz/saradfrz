@@ -47,11 +47,11 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
         style="max-width: 100%;">&nbsp;
     <img src="img\-AWS-black.svg"
         alt="AWS"
-        data-canonical-src="https://img.shields.io/badge/-aws-black?style=flat-square&logo=amazonaws&logoColor=yellow"
+        data-canonical-src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws&logoColor=yellow"
         style="max-width: 100%;">&nbsp;
    <img src="img\-airflow-black.svg"
         alt="Airflow"
-        data-canonical-src="https://img.shields.io/badge/-airflow-black?style=flat-square&logo=apacheairflow&logoColor=red"
+        data-canonical-src="https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apacheairflow&logoColor=red"
         style="max-width: 100%;">&nbsp;
   <br>
       <img src="img\-django-black.svg"
