@@ -78,7 +78,7 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
         data-canonical-src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=9cf"
         style="max-width: 100%;">
 </p>
-<br><br>
+<br>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/saradfrz)
 
