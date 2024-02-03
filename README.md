@@ -21,7 +21,6 @@
   </a>
 </p>
 
-
 ## 💻 About Me
 I am a Data Engineer with nearly three years of professional expertise. During my college years, I engaged in coding as a side project. Upon graduating with a degree in Chemical Engineering, I intentionally pivoted to a career in technology while working in a non-IT role. This transition culminated in securing a position as a developer in a startup, where I have been actively contributing to various projects.
 
@@ -79,7 +78,7 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
         data-canonical-src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=9cf"
         style="max-width: 100%;">
 </p>
-
+<br><br>
 
 ![Codewars](https://github.r2v.ch/codewars?user=saradfrz&stroke=%23FB4570)
 
