@@ -45,15 +45,15 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
         alt="MySQL"
         data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=9cf"
         style="max-width: 100%;">&nbsp;
-    <img src="img\-AWS-black.svg"
+    <img src="img\-aws-black.svg"
         alt="AWS"
         data-canonical-src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws&logoColor=yellow"
         style="max-width: 100%;">&nbsp;
-   <img src="img\-airflow-black.svg"
+   <img src="img\-Airflow-black.svg"
         alt="Airflow"
         data-canonical-src="https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=apacheairflow&logoColor=red"
         style="max-width: 100%;">&nbsp;
-  <br>
+  <br><br>
       <img src="img\-django-black.svg"
         alt="django"
         data-canonical-src="https://img.shields.io/badge/-django-black?style=flat-square&logo=django&logoColor=green"
