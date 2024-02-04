@@ -40,17 +40,11 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 
 <br>
 <h2> 📈 Dashboard </h2>
-<br><br>
-
 <p align="center">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/saradfrz)
 
-<br>
-
 ![Codewars](https://github.r2v.ch/codewars?user=saradfrz&stroke=%23FB4570)
-
-<br><br>
 
 <h2> 💬 Contact-me! </h2>
 <div align="center">
