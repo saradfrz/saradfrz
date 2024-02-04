@@ -35,7 +35,7 @@
     </p>
     <br>
     <h2>⚡ Languages, Frameworks and Tools </h2>
-    <p style="text-align: center;">
+    <p style="align: center;">
         <!-- Programming Languages -->
         <img src="img\python.svg" alt="Python" class="badge" style="width:50px; height:50px">
         <img src="img\javascript.svg" alt="Javascript" class="badge"style="width:50px; height:50px">
@@ -74,15 +74,15 @@
 <br><br>
 
 <h2> 💬 Contact-me! </h2>
-<p dir="auto" style="text-align: center; margin: auto;">
+<p dir="auto" style="align: center; margin: auto;">
     <a href="https://www.linkedin.com/in/saradfrz/">
-      <img src="img/linkedin.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px">
+      <img src="img/linkedin.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px; text-decoration: none;">
     </a>
     <a href="https://discordapp.com/users/702235784794734631">
-      <img src="img/discord.svg" alt="discord-saradfrz"  class="social-media" style="width:50px; height:50px">
+      <img src="img/discord.svg" alt="discord-saradfrz"  class="social-media" style="width:50px; height:50px; text-decoration: none;">
     </a>
     <a href="mailto:saradfrz@gmail.com">
-      <img src="img/gmail.svg" alt="gmail-saradfrz" class="social-media" style="width:50px; height:50px">
+      <img src="img/gmail.svg" alt="gmail-saradfrz" class="social-media" style="width:50px; height:50px; text-decoration: none;">
     </a>
   </p>
 </body>
