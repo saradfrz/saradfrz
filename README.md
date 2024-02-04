@@ -41,10 +41,8 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 <br>
 <h2> 📈 Dashboard </h2>
 <p align="center">
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/saradfrz)
-
-![Codewars](https://github.r2v.ch/codewars?user=saradfrz&stroke=%23FB4570)
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2bb651c9029b2345d710efa460f914aae383122df7b701e715f76da78d3374e9/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f736172616466727a"><img src="https://camo.githubusercontent.com/2bb651c9029b2345d710efa460f914aae383122df7b701e715f76da78d3374e9/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f736172616466727a" alt="Leetcode Stats" data-canonical-src="https://leetcard.jacoblin.cool/saradfrz" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2e55ba88dea78085e82dc0aadbddd9120c4fa2c7938beb55d33cafc96e748ec0/68747470733a2f2f6769746875622e7232762e63682f636f6465776172733f757365723d736172616466727a267374726f6b653d253233464234353730"><img src="https://camo.githubusercontent.com/2e55ba88dea78085e82dc0aadbddd9120c4fa2c7938beb55d33cafc96e748ec0/68747470733a2f2f6769746875622e7232762e63682f636f6465776172733f757365723d736172616466727a267374726f6b653d253233464234353730" alt="Codewars" data-canonical-src="https://github.r2v.ch/codewars?user=saradfrz&amp;stroke=%23FB4570" style="max-width: 100%;"></a></p>
 </p>
 <h2> 💬 Contact-me! </h2>
 <p align="center">
