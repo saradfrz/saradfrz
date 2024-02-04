@@ -45,10 +45,9 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 ![Leetcode Stats](https://leetcard.jacoblin.cool/saradfrz)
 
 ![Codewars](https://github.r2v.ch/codewars?user=saradfrz&stroke=%23FB4570)
-
+</p>
 <h2> 💬 Contact-me! </h2>
-<div align="center">
-<p dir="auto" style="align: center; margin: auto;">
+<p align="center">
   <a href="https://www.linkedin.com/in/saradfrz/">
     <img src="img/linkedin.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px; text-decoration: none;">
   </a>
@@ -59,4 +58,3 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
     <img src="img/gmail.svg" alt="gmail-saradfrz" class="social-media" style="width:50px; height:50px; text-decoration: none;">
   </a>
 </p>
-</div>
