@@ -26,7 +26,7 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
   <img src="img\react.svg" alt="react" class="badge"  style="width:50px; height:50px;">
   <br><br>
   <!-- Data Engineering -->
-  <img src="img\MySQL.svg" alt="MySQL" class="badge" style="width:50px; height:50px;">
+  <img src="img\mysql.svg" alt="mysql" class="badge" style="width:50px; height:50px;">
   <img src="img\amazon-web-services.svg" alt="aws" class="badge" style="width:50px; height:50px;">
   <img src="img\airflow.svg" alt="airflow" class="badge" style="width:50px; height:50px;">
   <img src="img\linux.svg" alt="linux" class="badge" style="width:50px; height:50px;">
