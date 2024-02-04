@@ -71,13 +71,13 @@
 <h2> 💬 Contact-me! </h2>
 <p dir="auto" style="text-align: center; margin: auto;">
     <a href="https://www.linkedin.com/in/saradfrz/">
-      <img src="img\linkedin.svg" alt="linkedin-saradfrz" class="social-media">
+      <img src="img\linkedin.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px>
     </a>
     <a href="https://discordapp.com/users/702235784794734631">
-      <img src="img\Discord.svg" alt="discord-saradfrz"  class="social-media">
+      <img src="img\Discord.svg" alt="discord-saradfrz"  class="social-media" style="width:50px; height:50px>
     </a>
     <a href="mailto:saradfrz@gmail.com">
-      <img src="img/gmail.svg" alt="gmail-saradfrz" class="social-media">
+      <img src="img/gmail.svg" alt="gmail-saradfrz" class="social-media" style="width:50px; height:50px>
     </a>
   </p>
 </body>
