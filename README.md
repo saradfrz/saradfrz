@@ -49,13 +49,13 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 
 <h2> 💬 Contact-me! </h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/saradfrz/" style="text-decoration: none important!; underline: none;">
+  <a href="https://www.linkedin.com/in/saradfrz/" style="text-decoration: None important!; underline: none;">
     <img src="img/linkedin.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px;">
   </a>&nbsp;
   <a href="https://discordapp.com/users/702235784794734631" style="text-decoration: none important!; underline: none;">
     <img src="img/discord.svg" alt="discord-saradfrz"  class="social-media" style="width:50px; height:50px;">
   </a>&nbsp;
-  <a href="mailto:saradfrz@gmail.com" style="text-decoration: none; underline: none;">
+  <a href="mailto:saradfrz@gmail.com" style="text-decoration: None important!; underline: none;">
     <img src="img/gmail.svg" alt="gmail-saradfrz" class="social-media" style="width:50px; height:50px;">
   </a>
 </p>
