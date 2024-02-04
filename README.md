@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,7 +76,7 @@
 <h2> 💬 Contact-me! </h2>
 <p dir="auto" style="text-align: center; margin: auto;">
     <a href="https://www.linkedin.com/in/saradfrz/">
-      <img src="img\linkedin.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px">
+      <img src="img/linkedin.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px">
     </a>
     <a href="https://discordapp.com/users/702235784794734631">
       <img src="img\discord.svg" alt="discord-saradfrz"  class="social-media" style="width:50px; height:50px">
