@@ -65,13 +65,14 @@
     <h2> 📈 Dashboard </h2>
     <br><br>
 
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/saradfrz)
+![Leetcode Stats](https://leetcard.jacoblin.cool/saradfrz)
 
-    <br>
+<br>
 
-    ![Codewars](https://github.r2v.ch/codewars?user=saradfrz&stroke=%23FB4570)
-    
-    <br><br>
+![Codewars](https://github.r2v.ch/codewars?user=saradfrz&stroke=%23FB4570)
+
+<br><br>
+
 <h2> 💬 Contact-me! </h2>
 <p dir="auto" style="text-align: center; margin: auto;">
     <a href="https://www.linkedin.com/in/saradfrz/">
