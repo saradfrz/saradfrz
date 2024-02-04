@@ -15,6 +15,7 @@
             width: 50px;
             height: 50px;
         }
+        style="width:50px; height:50px"
         a {
             text-decoration: none;
         }
@@ -36,29 +37,29 @@
     <h2>⚡ Languages, Frameworks and Tools </h2>
     <p style="text-align: center;">
         <!-- Programming Languages -->
-        <img src="img\python.svg" alt="Python" class="badge">
-        <img src="img\javascript.svg" alt="Javascript" class="badge">
+        <img src="img\python.svg" alt="Python" class="badge" style="width:50px; height:50px">
+        <img src="img\javascript.svg" alt="Javascript" class="badge"style="width:50px; height:50px">
         <br><br>
         <!-- Web Frameworks and tools -->
-        <img src="img\django.svg" alt="django" class="badge">
-        <img src="img\flask.svg" alt="flask" class="badge">
-        <img src="img\html5.svg" alt="html5" class="badge">
-        <img src="img\css3.svg" alt="css3" class="badge" >
-        <img src="img\nodedotjs.svg" alt="nodedotjs" class="badge" >
-        <img src="img\nextdotjs.svg" alt="nextdotjs" class="badge" >
-        <img src="img\react.svg" alt="react" class="badge" >
+        <img src="img\django.svg" alt="django" class="badge" style="width:50px; height:50px">
+        <img src="img\flask.svg" alt="flask" class="badge" style="width:50px; height:50px;">
+        <img src="img\html5.svg" alt="html5" class="badge" style="width:50px; height:50px;">
+        <img src="img\css3.svg" alt="css3" class="badge"  style="width:50px; height:50px;">
+        <img src="img\nodedotjs.svg" alt="nodedotjs" class="badge"  style="width:50px; height:50px;">
+        <img src="img\nextdotjs.svg" alt="nextdotjs" class="badge"  style="width:50px; height:50px;">
+        <img src="img\react.svg" alt="react" class="badge"  style="width:50px; height:50px;">
         <br><br>
         <!-- Data Engineering -->
-        <img src="img\MySQL.svg" alt="MySQL" class="badge">
-        <img src="img\amazon-web-services.svg" alt="aws" class="badge">
-        <img src="img\airflow.svg" alt="airflow" class="badge">
-        <img src="img\linux.svg" alt="linux" class="badge">
+        <img src="img\MySQL.svg" alt="MySQL" class="badge" style="width:50px; height:50px;">
+        <img src="img\amazon-web-services.svg" alt="aws" class="badge" style="width:50px; height:50px;">
+        <img src="img\airflow.svg" alt="airflow" class="badge" style="width:50px; height:50px;">
+        <img src="img\linux.svg" alt="linux" class="badge" style="width:50px; height:50px;">
         <br><br>
         <!-- Data Analysis -->
-        <img src="img\jupyter.svg" alt="jupyter" class="badge">
-        <img src="img\pandas.svg" alt="pandas" class="badge">
-        <img src="img\scikit-learn.svg" alt="scikit-learn" class="badge">
-        <img src="img\seaborn.svg" alt="seaborn" class="badge">
+        <img src="img\jupyter.svg" alt="jupyter" class="badge" style="width:50px; height:50px;">
+        <img src="img\pandas.svg" alt="pandas" class="badge" style="width:50px; height:50px;">
+        <img src="img\scikit-learn.svg" alt="scikit-learn" class="badge" style="width:50px; height:50px;">
+        <img src="img\seaborn.svg" alt="seaborn" class="badge" style="width:50px; height:50px;">
     </p>
     <br>
     <h2> 📈 Dashboard </h2>
