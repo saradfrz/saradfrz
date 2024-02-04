@@ -79,7 +79,7 @@
       <img src="img\linkedin.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px">
     </a>
     <a href="https://discordapp.com/users/702235784794734631">
-      <img src="img\Discord.svg" alt="discord-saradfrz"  class="social-media" style="width:50px; height:50px">
+      <img src="img\discord.svg" alt="discord-saradfrz"  class="social-media" style="width:50px; height:50px">
     </a>
     <a href="mailto:saradfrz@gmail.com">
       <img src="img/gmail.svg" alt="gmail-saradfrz" class="social-media" style="width:50px; height:50px">
