@@ -16,7 +16,7 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 <div align="center">
 
   <!-- Python -->
-  <picture>
+  <picture >
   <source media="(prefers-color-scheme: light)" srcset="img/python-light.svg" 
     style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/python-dark.svg" 
