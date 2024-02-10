@@ -26,9 +26,9 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 
   <!-- javascript -->
   <picture>
-  <source media="(prefers-color-scheme: light)" srcset="img/javascript-light.svg" 
+  <source media="(width:50px; prefers-color-scheme: light)" srcset="img/javascript-light.svg" 
     style="width:50px; height:50px;">
-  <source media="(prefers-color-scheme: dark)" srcset="img/javascript-dark.svg" 
+  <source media="(width:50px; prefers-color-scheme: dark)" srcset="img/javascript-dark.svg" 
      style="width:50px; height:50px;">
   <img src="img/javascript-dark.svg"style="width:50px; height:50px;">
   </picture>
