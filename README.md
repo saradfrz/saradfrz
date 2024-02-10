@@ -12,131 +12,211 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 <br>
 <h2>⚡ Languages, Frameworks and Tools </h2>
 
- <!-- Programming Languages -->
 
-<!-- Light Theme -->
 <div align="center">
+
   <!-- Python -->
+  <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/python-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- JavaScript -->
-  <source media="(prefers-color-scheme: light)" srcset="img/javascript-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Django -->
-  <source media="(prefers-color-scheme: light)" srcset="img/django-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Flask -->
-  <source media="(prefers-color-scheme: light)" srcset="img/flask-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- HTML5 -->
-  <source media="(prefers-color-scheme: light)" srcset="img/html5-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- CSS3 -->
-  <source media="(prefers-color-scheme: light)" srcset="img/css3-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Node.js -->
-  <source media="(prefers-color-scheme: light)" srcset="img/nodedotjs-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Next.js -->
-  <source media="(prefers-color-scheme: light)" srcset="img/nextdotjs-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- React -->
-  <source media="(prefers-color-scheme: light)" srcset="img/react-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Tailwind -->
-  <source media="(prefers-color-scheme: light)" srcset="img/tailwind-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- TypeScript -->
-  <source media="(prefers-color-scheme: light)" srcset="img/typescript-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- MySQL -->
-  <source media="(prefers-color-scheme: light)" srcset="img/mysql-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Amazon Web Services -->
-  <source media="(prefers-color-scheme: light)" srcset="img/amazon-web-services-light.svg"
-  style="width:50px; height:50px;">
-  <!-- Airflow -->
-  <source media="(prefers-color-scheme: light)" srcset="img/airflow-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Linux -->
-  <source media="(prefers-color-scheme: light)" srcset="img/linux-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Jupyter -->
-  <source media="(prefers-color-scheme: light)" srcset="img/jupyter-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Pandas -->
-  <source media="(prefers-color-scheme: light)" srcset="img/pandas-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- NumPy -->
-  <source media="(prefers-color-scheme: light)" srcset="img/numpy-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Scikit-learn -->
-  <source media="(prefers-color-scheme: light)" srcset="img/scikit-learn-light.svg" style="width:50px; height:50px;">
-  <!-- Seaborn -->
-  <source media="(prefers-color-scheme: light)" srcset="img/seaborn-light.svg" 
-  style="width:50px; height:50px;">
-  <!-- Dark Theme -->
-  <!-- Python -->
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/python-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- JavaScript -->
+     style="width:50px; height:50px;">
+  <img src="img/python-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+  <!-- javascript -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/javascript-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/javascript-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Django -->
+     style="width:50px; height:50px;">
+  <img src="img/javascript-dark.svg"style="width:50px; height:50px;">
+  </picture>
+  <br><br><br>
+
+        
+  <!-- django -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/django-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/django-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Flask -->
+     style="width:50px; height:50px;">
+  <img src="img/django-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- flask -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/flask-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/flask-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- HTML5 -->
+     style="width:50px; height:50px;">
+  <img src="img/flask-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- html5 -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/html5-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/html5-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- CSS3 -->
+     style="width:50px; height:50px;">
+  <img src="img/html5-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- css3 -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/css3-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/css3-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Node.js -->
+     style="width:50px; height:50px;">
+  <img src="img/css3-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- nodedotjs -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/nodedotjs-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/nodedotjs-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Next.js -->
+     style="width:50px; height:50px;">
+  <img src="img/nodedotjs-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- nextdotjs -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/nextdotjs-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/nextdotjs-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- React -->
+     style="width:50px; height:50px;">
+  <img src="img/nextdotjs-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- react -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/react-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/react-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Tailwind -->
+     style="width:50px; height:50px;">
+  <img src="img/react-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- tailwind -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/tailwind-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/tailwind-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- TypeScript -->
+     style="width:50px; height:50px;">
+  <img src="img/tailwind-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- typescript -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/typescript-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/typescript-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- MySQL -->
+     style="width:50px; height:50px;">
+  <img src="img/typescript-dark.svg"style="width:50px; height:50px;">
+  </picture>
+  <br><br><br>
+
+        
+  <!-- mysql -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/mysql-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/mysql-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Amazon Web Services -->
+     style="width:50px; height:50px;">
+  <img src="img/mysql-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- amazon-web-services -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/amazon-web-services-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/amazon-web-services-dark.svg" 
-  class="badge" style="width:50px; height:50px;">
-  <!-- Airflow -->
+     style="width:50px; height:50px;">
+  <img src="img/amazon-web-services-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+  <!-- airflow -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/airflow-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/airflow-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Linux -->
+     style="width:50px; height:50px;">
+  <img src="img/airflow-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- linux -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/linux-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/linux-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Jupyter -->
+     style="width:50px; height:50px;">
+  <img src="img/linux-dark.svg"style="width:50px; height:50px;">
+  </picture>
+  <br><br><br>
+
+        
+  <!-- jupyter -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/jupyter-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/jupyter-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Pandas -->
+     style="width:50px; height:50px;">
+  <img src="img/jupyter-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- pandas -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/pandas-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/pandas-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- NumPy -->
+     style="width:50px; height:50px;">
+  <img src="img/pandas-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- numpy -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/numpy-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/numpy-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Scikit-learn -->
+     style="width:50px; height:50px;">
+  <img src="img/numpy-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- scikit-learn -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/scikit-learn-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/scikit-learn-dark.svg" 
-  style="width:50px; height:50px;">
-  <!-- Seaborn -->
+     style="width:50px; height:50px;">
+  <img src="img/scikit-learn-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
+        
+  <!-- seaborn -->
+  <picture>
+  <source media="(prefers-color-scheme: light)" srcset="img/seaborn-light.svg" 
+    style="width:50px; height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/seaborn-dark.svg" 
-  style="width:50px; height:50px;">
+     style="width:50px; height:50px;">
+  <img src="img/seaborn-dark.svg"style="width:50px; height:50px;">
+  </picture>
+
 </div>
+  
 
 <br>
 <h2> 📈 Dashboard </h2>
