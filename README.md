@@ -17,68 +17,68 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
   
 </picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/python-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/python-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/python-light.svg" style="width:50px; height:50px">>
   <img src="img/python-dark.svg" alt="Python" class="badge" style="width:50px; height:50px">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/javascript-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/javascript-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/javascript-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/javascript-dark.svg" alt="Javascript" class="badge"style="width:50px; height:50px">
   <!-- Web Frameworks and tools -->
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/django-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/django-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/django-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/django-dark.svg" alt="django" class="badge" style="width:50px; height:50px">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/flask-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/flask-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/flask-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/flask-dark.svg" alt="flask" class="badge" style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/html5-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/html5-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/html5-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/html5-dark.svg" alt="html5" class="badge" style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/css3-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/css3-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/css3-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/css3-dark.svg" alt="css3" class="badge"  style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/nodedotjs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/nodedotjs-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/nodedotjs-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/nodedotjs-dark.svg" alt="nodedotjs" class="badge"  style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/nextdotjs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/nextdotjs-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/nextdotjs-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/nextdotjs-dark.svg" alt="nextdotjs" class="badge"  style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/react-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/react-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/react-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/react-dark.svg" alt="react" class="badge"  style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/tailwind-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/tailwind-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/tailwind-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/tailwind-dark.svg" alt="tailwind" class="badge"  style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/typescript-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/typescript-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/typescript-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/typescript-dark.svg" alt="typescript" class="badge"  style="width:50px; height:50px;">
   <br><br>
   <!-- Data Engineering -->
@@ -86,25 +86,25 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/mysql-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/mysql-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/mysql-light.svg" style="width:50px; height:50px">> 
  	 <img src="img\mysql-dark.svg" alt="mysql" class="badge" style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/amazon-web-services-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/amazon-web-services-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/amazon-web-services-light.svg"style="width:50px; height:50px">> 
  	 <img src="img\amazon-web-services-dark.svg" alt="aws" class="badge" style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/airflow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/airflow-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/airflow-light.svg" style="width:50px; height:50px">> 
  	 <img src="img\airflow-dark.svg" alt="airflow" class="badge" style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/linux-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/linux-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/linux-light.svg" style="width:50px; height:50px">> 
  	 <img src="img\linux-dark.svg" alt="linux" class="badge" style="width:50px; height:50px;">
   <br><br>
   <!-- Data Analysis -->
@@ -112,31 +112,31 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/jupyter-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/jupyter-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/jupyter-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/jupyter-dark.svg" alt="jupyter" class="badge" style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/pandas-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/pandas-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/pandas-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/pandas-dark.svg" alt="pandas" class="badge" style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/numpy-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/numpy-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/numpy-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/numpy-dark.svg" alt="numpy" class="badge"  style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/scikit-learn-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/scikit-learn-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/scikit-learn-light.svg" style="width:50px; height:50px">> 
  	 <img src="img/scikit-learn-dark.svg" alt="scikit-learn" class="badge" style="width:50px; height:50px;">
 </picture> 
  
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="img/seaborn-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/seaborn-light.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="img/seaborn-light.svg"style="width:50px; height:50px">> 
  	 <img src="img/seaborn-dark.svg" alt="seaborn" class="badge" style="width:50px; height:50px;">
 </picture> 
 </p>
