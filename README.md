@@ -11,8 +11,8 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 </p>
 <br>
 <h2>⚡ Languages, Frameworks and Tools </h2>
-<br><br>
-<p align="center">
+
+<p align="center" style="background: black; padding: 20px;">
   <!-- Programming Languages -->
   <img src="img/python.svg" alt="Python" class="badge" style="width:50px; height:50px">
   <img src="img/javascript.svg" alt="Javascript" class="badge"style="width:50px; height:50px">
