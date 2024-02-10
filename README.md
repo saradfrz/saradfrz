@@ -12,34 +12,134 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 <br>
 <h2>⚡ Languages, Frameworks and Tools </h2>
 
-<p align="center" style="background-color: #000000;">
+<p align="center">
   <!-- Programming Languages -->
-  <img src="img/python.svg" alt="Python" class="badge" style="width:50px; height:50px">
-  <img src="img/javascript.svg" alt="Javascript" class="badge"style="width:50px; height:50px">
+  
+</picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/python-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/python-light.svg">
+  <img src="img/python-dark.svg" alt="Python" class="badge" style="width:50px; height:50px">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/javascript-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/javascript-light.svg"> 
+ 	 <img src="img/javascript-dark.svg" alt="Javascript" class="badge"style="width:50px; height:50px">
   <br><br>
   <!-- Web Frameworks and tools -->
-  <img src="img/django.svg" alt="django" class="badge" style="width:50px; height:50px">
-  <img src="img/flask.svg" alt="flask" class="badge" style="width:50px; height:50px;">
-  <img src="img/html5.svg" alt="html5" class="badge" style="width:50px; height:50px;">
-  <img src="img/css3.svg" alt="css3" class="badge"  style="width:50px; height:50px;">
-  <img src="img/nodedotjs.svg" alt="nodedotjs" class="badge"  style="width:50px; height:50px;">
-  <img src="img/nextdotjs.svg" alt="nextdotjs" class="badge"  style="width:50px; height:50px;">
-  <img src="img/react.svg" alt="react" class="badge"  style="width:50px; height:50px;">
-  <img src="img/tailwind.svg" alt="tailwind" class="badge"  style="width:50px; height:50px;">
-  <img src="img/typescript.svg" alt="typescript" class="badge"  style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/django-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/django-light.svg"> 
+ 	 <img src="img/django-dark.svg" alt="django" class="badge" style="width:50px; height:50px">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/flask-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/flask-light.svg"> 
+ 	 <img src="img/flask-dark.svg" alt="flask" class="badge" style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/html5-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/html5-light.svg"> 
+ 	 <img src="img/html5-dark.svg" alt="html5" class="badge" style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/css3-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/css3-light.svg"> 
+ 	 <img src="img/css3-dark.svg" alt="css3" class="badge"  style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/nodedotjs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/nodedotjs-light.svg"> 
+ 	 <img src="img/nodedotjs-dark.svg" alt="nodedotjs" class="badge"  style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/nextdotjs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/nextdotjs-light.svg"> 
+ 	 <img src="img/nextdotjs-dark.svg" alt="nextdotjs" class="badge"  style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/react-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/react-light.svg"> 
+ 	 <img src="img/react-dark.svg" alt="react" class="badge"  style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/tailwind-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/tailwind-light.svg"> 
+ 	 <img src="img/tailwind-dark.svg" alt="tailwind" class="badge"  style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/typescript-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/typescript-light.svg"> 
+ 	 <img src="img/typescript-dark.svg" alt="typescript" class="badge"  style="width:50px; height:50px;">
   <br><br>
   <!-- Data Engineering -->
-  <img src="img\mysql.svg" alt="mysql" class="badge" style="width:50px; height:50px;">
-  <img src="img\amazon-web-services.svg" alt="aws" class="badge" style="width:50px; height:50px;">
-  <img src="img\airflow.svg" alt="airflow" class="badge" style="width:50px; height:50px;">
-  <img src="img\linux.svg" alt="linux" class="badge" style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/mysql-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/mysql-light.svg"> 
+ 	 <img src="img\mysql-dark.svg" alt="mysql" class="badge" style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/amazon-web-services-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/amazon-web-services-light.svg"> 
+ 	 <img src="img\amazon-web-services-dark.svg" alt="aws" class="badge" style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/airflow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/airflow-light.svg"> 
+ 	 <img src="img\airflow-dark.svg" alt="airflow" class="badge" style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/linux-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/linux-light.svg"> 
+ 	 <img src="img\linux-dark.svg" alt="linux" class="badge" style="width:50px; height:50px;">
   <br><br>
   <!-- Data Analysis -->
-  <img src="img/jupyter.svg" alt="jupyter" class="badge" style="width:50px; height:50px;">
-  <img src="img/pandas.svg" alt="pandas" class="badge" style="width:50px; height:50px;">
-  <img src="img/numpy.svg" alt="numpy" class="badge"  style="width:50px; height:50px;">
-  <img src="img/scikit-learn.svg" alt="scikit-learn" class="badge" style="width:50px; height:50px;">
-  <img src="img/seaborn.svg" alt="seaborn" class="badge" style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/jupyter-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/jupyter-light.svg"> 
+ 	 <img src="img/jupyter-dark.svg" alt="jupyter" class="badge" style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/pandas-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/pandas-light.svg"> 
+ 	 <img src="img/pandas-dark.svg" alt="pandas" class="badge" style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/numpy-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/numpy-light.svg"> 
+ 	 <img src="img/numpy-dark.svg" alt="numpy" class="badge"  style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/scikit-learn-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/scikit-learn-light.svg"> 
+ 	 <img src="img/scikit-learn-dark.svg" alt="scikit-learn" class="badge" style="width:50px; height:50px;">
+</picture> 
+ 
+</picture><picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="img/seaborn-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/seaborn-light.svg"> 
+ 	 <img src="img/seaborn-dark.svg" alt="seaborn" class="badge" style="width:50px; height:50px;">
+</picture> 
 </p>
 
 <br>
@@ -51,12 +151,12 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 <h2> 💬 Contact-me! </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/saradfrz/" style="text-decoration: none !important;">
-    <img src="img/linkedin.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px;">
+    <img src="img/linkedin-dark.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px;">
   </a>&nbsp;
   <a href="https://discordapp.com/users/702235784794734631" style="text-decoration: none !important;">
-    <img src="img/discord.svg" alt="discord-saradfrz"  class="social-media" style="width:50px; height:50px;">
+    <img src="img/discord-dark.svg" alt="discord-saradfrz"  class="social-media" style="width:50px; height:50px;">
   </a>&nbsp;
   <a href="mailto:saradfrz@gmail.com" style="text-decoration: none !important;">
-    <img src="img/gmail.svg" alt="gmail-saradfrz" class="social-media" style="width:50px; height:50px;">
+    <img src="img/gmail-dark.svg" alt="gmail-saradfrz" class="social-media" style="width:50px; height:50px;">
   </a>
 </p>
