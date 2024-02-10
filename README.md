@@ -18,19 +18,19 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
   <!-- Python -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/python-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/python-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/python-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/python-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
   <!-- javascript -->
   <picture>
-  <source media="(width:50px; prefers-color-scheme: light)" srcset="img/javascript-light.svg" 
-    style="width:50px; height:50px;">
-  <source media="(width:50px; prefers-color-scheme: dark)" srcset="img/javascript-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/javascript-dark.svg"style="width:50px; height:50px;">
+  <source media="(prefers-color-scheme: light)" srcset="img/javascript-light.svg" 
+    style="max-width:50px; max-height:50px;">
+  <source media="(prefers-color-scheme: dark)" srcset="img/javascript-dark.svg" 
+     style="max-width:50px; max-height:50px;">
+  <img src="img/javascript-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
   <br><br><br>
 
@@ -38,90 +38,90 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
   <!-- django -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/django-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/django-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/django-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/django-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- flask -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/flask-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/flask-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/flask-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/flask-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- html5 -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/html5-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/html5-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/html5-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/html5-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- css3 -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/css3-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/css3-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/css3-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/css3-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- nodedotjs -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/nodedotjs-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/nodedotjs-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/nodedotjs-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/nodedotjs-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- nextdotjs -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/nextdotjs-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/nextdotjs-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/nextdotjs-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/nextdotjs-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- react -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/react-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/react-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/react-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/react-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- tailwind -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/tailwind-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/tailwind-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/tailwind-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/tailwind-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- typescript -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/typescript-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/typescript-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/typescript-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/typescript-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
   <br><br><br>
 
@@ -129,90 +129,90 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
   <!-- mysql -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/mysql-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/mysql-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/mysql-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/mysql-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- amazon-web-services -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/amazon-web-services-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/amazon-web-services-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/amazon-web-services-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/amazon-web-services-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
   <!-- airflow -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/airflow-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/airflow-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/airflow-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/airflow-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- linux -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/linux-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/linux-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/linux-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/linux-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
-  <br><br><br>
+  
 
         
   <!-- jupyter -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/jupyter-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/jupyter-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/jupyter-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/jupyter-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- pandas -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/pandas-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/pandas-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/pandas-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/pandas-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- numpy -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/numpy-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/numpy-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/numpy-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/numpy-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- scikit-learn -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/scikit-learn-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/scikit-learn-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/scikit-learn-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/scikit-learn-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
         
   <!-- seaborn -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/seaborn-light.svg" 
-    style="width:50px; height:50px;">
+    style="max-width:50px; max-height:50px;">
   <source media="(prefers-color-scheme: dark)" srcset="img/seaborn-dark.svg" 
-     style="width:50px; height:50px;">
-  <img src="img/seaborn-dark.svg"style="width:50px; height:50px;">
+     style="max-width:50px; max-height:50px;">
+  <img src="img/seaborn-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
 
 </div>
@@ -228,12 +228,12 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 <h2> 💬 Contact-me! </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/saradfrz/" style="text-decoration: none !important;">
-    <img src="img/linkedin-dark.svg" alt="linkedin-saradfrz" class="social-media" style="width:50px; height:50px;">
+    <img src="img/linkedin-dark.svg" alt="linkedin-saradfrz" class="social-media" style="max-width:50px; max-height:50px;">
   </a>&nbsp;
   <a href="https://discordapp.com/users/702235784794734631" style="text-decoration: none !important;">
-    <img src="img/discord-dark.svg" alt="discord-saradfrz"  class="social-media" style="width:50px; height:50px;">
+    <img src="img/discord-dark.svg" alt="discord-saradfrz"  class="social-media" style="max-width:50px; max-height:50px;">
   </a>&nbsp;
   <a href="mailto:saradfrz@gmail.com" style="text-decoration: none !important;">
-    <img src="img/gmail-dark.svg" alt="gmail-saradfrz" class="social-media" style="width:50px; height:50px;">
+    <img src="img/gmail-dark.svg" alt="gmail-saradfrz" class="social-media" style="max-width:50px; max-height:50px;">
   </a>
 </p>
