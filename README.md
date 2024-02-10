@@ -12,95 +12,138 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
 <br>
 <h2>⚡ Languages, Frameworks and Tools </h2>
 
-<p align="center">
-  <!-- Programming Languages -->
-  
-<!-- Python -->
-<img src="img/python-light.svg" alt="Python" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/python-dark.svg" alt="Python" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
+ <!-- Programming Languages -->
 
-<!-- JavaScript -->
-<img src="img/javascript-light.svg" alt="Javascript" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/javascript-dark.svg" alt="Javascript" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Django -->
-<img src="img/django-light.svg" alt="Django" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/django-dark.svg" alt="Django" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Flask -->
-<img src="img/flask-light.svg" alt="Flask" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/flask-dark.svg" alt="Flask" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- HTML5 -->
-<img src="img/html5-light.svg" alt="HTML5" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/html5-dark.svg" alt="HTML5" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- CSS3 -->
-<img src="img/css3-light.svg" alt="CSS3" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/css3-dark.svg" alt="CSS3" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Node.js -->
-<img src="img/nodedotjs-light.svg" alt="Node.js" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/nodedotjs-dark.svg" alt="Node.js" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Next.js -->
-<img src="img/nextdotjs-light.svg" alt="Next.js" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/nextdotjs-dark.svg" alt="Next.js" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- React -->
-<img src="img/react-light.svg" alt="React" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/react-dark.svg" alt="React" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Tailwind -->
-<img src="img/tailwind-light.svg" alt="Tailwind" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/tailwind-dark.svg" alt="Tailwind" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- TypeScript -->
-<img src="img/typescript-light.svg" alt="TypeScript" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/typescript-dark.svg" alt="TypeScript" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- MySQL -->
-<img src="img/mysql-light.svg" alt="MySQL" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/mysql-dark.svg" alt="MySQL" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Amazon Web Services -->
-<img src="img/amazon-web-services-light.svg" alt="Amazon Web Services" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/amazon-web-services-dark.svg" alt="Amazon Web Services" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Airflow -->
-<img src="img/airflow-light.svg" alt="Airflow" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/airflow-dark.svg" alt="Airflow" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Linux -->
-<img src="img/linux-light.svg" alt="Linux" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/linux-dark.svg" alt="Linux" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Jupyter -->
-<img src="img/jupyter-light.svg" alt="Jupyter" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/jupyter-dark.svg" alt="Jupyter" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Pandas -->
-<img src="img/pandas-light.svg" alt="Pandas" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/pandas-dark.svg" alt="Pandas" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- NumPy -->
-<img src="img/numpy-light.svg" alt="NumPy" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/numpy-dark.svg" alt="NumPy" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Scikit-learn -->
-<img src="img/scikit-learn-light.svg" alt="Scikit-learn" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/scikit-learn-dark.svg" alt="Scikit-learn" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
-<!-- Seaborn -->
-<img src="img/seaborn-light.svg" alt="Seaborn" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: dark)">
-<img src="img/seaborn-dark.svg" alt="Seaborn" class="badge" style="width:50px; height:50px;" media="(prefers-color-scheme: light)">
-
+<!-- Light Theme -->
+<div align="center">
+  <!-- Python -->
+  <source media="(prefers-color-scheme: light)" srcset="img/python-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- JavaScript -->
+  <source media="(prefers-color-scheme: light)" srcset="img/javascript-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Django -->
+  <source media="(prefers-color-scheme: light)" srcset="img/django-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Flask -->
+  <source media="(prefers-color-scheme: light)" srcset="img/flask-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- HTML5 -->
+  <source media="(prefers-color-scheme: light)" srcset="img/html5-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- CSS3 -->
+  <source media="(prefers-color-scheme: light)" srcset="img/css3-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Node.js -->
+  <source media="(prefers-color-scheme: light)" srcset="img/nodedotjs-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Next.js -->
+  <source media="(prefers-color-scheme: light)" srcset="img/nextdotjs-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- React -->
+  <source media="(prefers-color-scheme: light)" srcset="img/react-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Tailwind -->
+  <source media="(prefers-color-scheme: light)" srcset="img/tailwind-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- TypeScript -->
+  <source media="(prefers-color-scheme: light)" srcset="img/typescript-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- MySQL -->
+  <source media="(prefers-color-scheme: light)" srcset="img/mysql-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Amazon Web Services -->
+  <source media="(prefers-color-scheme: light)" srcset="img/amazon-web-services-light.svg"
+  style="width:50px; height:50px;">
+  <!-- Airflow -->
+  <source media="(prefers-color-scheme: light)" srcset="img/airflow-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Linux -->
+  <source media="(prefers-color-scheme: light)" srcset="img/linux-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Jupyter -->
+  <source media="(prefers-color-scheme: light)" srcset="img/jupyter-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Pandas -->
+  <source media="(prefers-color-scheme: light)" srcset="img/pandas-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- NumPy -->
+  <source media="(prefers-color-scheme: light)" srcset="img/numpy-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Scikit-learn -->
+  <source media="(prefers-color-scheme: light)" srcset="img/scikit-learn-light.svg" style="width:50px; height:50px;">
+  <!-- Seaborn -->
+  <source media="(prefers-color-scheme: light)" srcset="img/seaborn-light.svg" 
+  style="width:50px; height:50px;">
+  <!-- Dark Theme -->
+  <!-- Python -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/python-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- JavaScript -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/javascript-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Django -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/django-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Flask -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/flask-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- HTML5 -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/html5-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- CSS3 -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/css3-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Node.js -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/nodedotjs-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Next.js -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/nextdotjs-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- React -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/react-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Tailwind -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/tailwind-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- TypeScript -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/typescript-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- MySQL -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/mysql-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Amazon Web Services -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/amazon-web-services-dark.svg" 
+  class="badge" style="width:50px; height:50px;">
+  <!-- Airflow -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/airflow-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Linux -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/linux-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Jupyter -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/jupyter-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Pandas -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/pandas-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- NumPy -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/numpy-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Scikit-learn -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/scikit-learn-dark.svg" 
+  style="width:50px; height:50px;">
+  <!-- Seaborn -->
+  <source media="(prefers-color-scheme: dark)" srcset="img/seaborn-dark.svg" 
+  style="width:50px; height:50px;">
+</div>
 
 <br>
 <h2> 📈 Dashboard </h2>
 
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2bb651c9029b2345d710efa460f914aae383122df7b701e715f76da78d3374e9/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f736172616466727a"><img src="https://camo.githubusercontent.com/2bb651c9029b2345d710efa460f914aae383122df7b701e715f76da78d3374e9/68747470733a2f2f6c656574636172642e6a61636f626c696e2e636f6f6c2f736172616466727a" alt="Leetcode Stats" data-canonical-src="https://leetcard.jacoblin.cool/saradfrz" style="max-width: 100%;"></a></p>
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2e55ba88dea78085e82dc0aadbddd9120c4fa2c7938beb55d33cafc96e748ec0/68747470733a2f2f6769746875622e7232762e63682f636f6465776172733f757365723d736172616466727a267374726f6b653d253233464234353730"><img src="https://camo.githubusercontent.com/2e55ba88dea78085e82dc0aadbddd9120c4fa2c7938beb55d33cafc96e748ec0/68747470733a2f2f6769746875622e7232762e63682f636f6465776172733f757365723d736172616466727a267374726f6b653d253233464234353730" alt="Codewars" data-canonical-src="https://github.r2v.ch/codewars?user=saradfrz&amp;stroke=%23FB4570" style="max-width: 100%;"></a></p>
+
 
 <h2> 💬 Contact-me! </h2>
 <p align="center">
