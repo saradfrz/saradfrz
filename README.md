@@ -34,7 +34,7 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
   </picture>
   <br><br><br>
 
-    <!-- amazon-web-services -->
+  <!-- amazon-web-services -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/amazon-web-services-light.svg" 
     style="max-width:50px; max-height:50px;">
