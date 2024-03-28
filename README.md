@@ -32,8 +32,6 @@ Proficient in multiple programming languages, I am comfortable working with Pyth
      style="max-width:50px; max-height:50px;">
   <img src="img/mysql-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
-
-
   <br><br><br>
 
     <!-- amazon-web-services -->
