@@ -7,7 +7,7 @@ I have acquired a comprehensive understanding of Extract, Transform, Load (ETL) 
 <br><br>
 In my current role, I am responsible for both creating ETL pipelines and developing a CRUD web application. I contribute to the design of the application and ensure its seamless functionality. This involves enhancing the overall user experience by providing a user-friendly interface for creating, reading, updating, and deleting data.
 <br><br>
-Proficient in multiple programming languages, I am comfortable working with Python, SQL, JavaScript, and Ruby. Additionally, my skill set extends to various technologies, including Amazon Web Services (AWS), Airflow, Git, Docker, Metabase, and Power BI. This diverse expertise enables me to effectively address various facets of development and deliver robust solutions.
+Proficient in multiple programming and scripting languages, I am comfortable working with Python, SQL and JavaScript. Additionally, my skill set extends to various technologies, including Amazon Web Services (AWS), Airflow, Git, Docker, Metabase, and Power BI. This diverse expertise enables me to effectively address various facets of development and deliver robust solutions.
 </p>
 <br>
 <h2>⚡ Languages, Frameworks and Tools </h2>
