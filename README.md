@@ -33,7 +33,7 @@ Proficient in multiple programming and scripting languages, I am comfortable wor
   <img src="img/mysql-dark.svg"style="max-width:50px; max-height:50px;">
   </picture>
   
-    <!-- postgres -->
+  <!-- postgres -->
   <picture>
   <source media="(prefers-color-scheme: light)" srcset="img/postgres-light.svg" 
     style="max-width:50px; max-height:50px;">
