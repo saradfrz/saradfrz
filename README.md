@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Sara!</h1>   
 <h2> 💻 About Me </h2>
 <p align="justify">
-I am a Data Engineer with nearly three years of professional expertise. During my college years, I engaged in coding as a side project. Upon graduating with a degree in Chemical Engineering, I intentionally pivoted to a career in technology while working in a non-IT role. This transition culminated in securing a position as a developer in a startup, where I have been actively contributing to various projects.
-<br><br>
-I have acquired a comprehensive understanding of Extract, Transform, Load (ETL) activities. ETL involves extracting data from diverse sources, transforming it to align with specific business requirements, and loading it into a target system for analysis or storage.
-<br><br>
-In my current role, I am responsible for both creating ETL pipelines and developing a CRUD web application. I contribute to the design of the application and ensure its seamless functionality. This involves enhancing the overall user experience by providing a user-friendly interface for creating, reading, updating, and deleting data.
-<br><br>
-Proficient in multiple programming and scripting languages, I am comfortable working with Python, SQL and JavaScript. Additionally, my skill set extends to various technologies, including Amazon Web Services (AWS), Airflow, Git, Docker, Metabase, and Power BI. This diverse expertise enables me to effectively address various facets of development and deliver robust solutions.
+Data Engineer | Full-Stack Developer | Cloud & BI Solutions
+With nearly four years of experience, I specialize in designing, optimizing, and automating data pipelines that enable reliable, high-performance data processing for business operations. My expertise in Python and SQL allows me to handle complex data modeling and queries, while leveraging DBT, Apache Airflow, and Spark to orchestrate scalable workflows.
+
+Beyond data engineering, I develop full-stack, self-service data applications using frameworks like Flask and Django, build web scrapers for automated data collection, and design APIs for seamless data integration. My experience spans AWS, Azure DevOps, and GCP, ensuring scalable and secure cloud-based solutions.
+
+For business intelligence, I work with tools like Apache Superset, Streamlit, Power BI, Looker, and Metabase to build interactive dashboards that drive data-driven decision-making. Additionally, I optimize development and deployment through Git for version control and Docker for containerization, streamlining workflows and enhancing collaboration.
+
+Always committed to learning and innovation, I bridge the gap between data engineering and software development, delivering impactful solutions that integrate data, analytics, and cloud infrastructure.
 </p>
 <br>
 <h2>⚡ Languages, Frameworks and Tools </h2>
